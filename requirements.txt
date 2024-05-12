@@ -208,7 +208,7 @@ tensorboard==2.15.1
 tensorboard-data-server==0.7.1
 tensorflow==2.13.0
 tensorflow-cpu==2.15.0
-tensorflow-docs @ git+https://github.com/tensorflow/docs@3eac15bae13ea389957e7eb499252ef5da6c9f01
+tensorflow-docs 
 tensorflow-estimator==2.15.0
 tensorflow-intel==2.15.0
 tensorflow-io-gcs-filesystem==0.31.0
