@@ -46,7 +46,7 @@ debugpy==1.6.7.post1
 decorator==4.4.2
 defusedxml==0.7.1
 dill==0.3.7
-dlib @ file:///D:/Downlode/dlib-master/dlib-master/dlib-19.24.1-cp27-cp27-win_amd64.whl#sha256=6f1a5ee167975d7952b28e0ce4495f1d9a77644761cf5720fb66d7c6188ae496
+dlib 
 dnspython==2.4.2
 executing==1.2.0
 fastjsonschema==2.18.1
